@@ -1,3 +1,3 @@
 # image-resize
 
-![Alt text](https://raw.githubusercontent.com/naveenkumarec/image-resize/main/SVG_Image.svg)
+<img src="https://raw.githubusercontent.com/naveenkumarec/image-resize/main/SVG_Image.svg" alt="drawing" width="50%"/>
